@@ -1,4 +1,4 @@
-#Perceptron.java 
+# Perceptron.java 
 In this example, dataset are in hyperplane, please select print1Normal(p);     or     print2SearchBestRate(p); in main()  
 这个例子的数据集是在超平面，在main函数里请选择 print1Normal(p);或者print2SearchBestRate(p);
 # PerceptronWithUI.java 
